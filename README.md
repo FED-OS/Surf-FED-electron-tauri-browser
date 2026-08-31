@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="surf-fed-launch-05" src="https://github.com/user-attachments/assets/b125ec41-c08f-4aa5-98f1-c3b40d1b3422" />
+<img width="2560" height="1440" alt="surf-fed-ui-mockup" src="https://github.com/user-attachments/assets/4493f2d8-f50c-4bc7-afbe-ff9ae4b4d6df" />
 
 # Surf FED 🏄
 
